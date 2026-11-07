@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ed091a-4bde-4c7c-8065-2e0d78da1349" name="Changes" comment="19">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/core_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,69 +28,69 @@
     &quot;assignee&quot;: &quot;UHOHSPAGHETTIOHS&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/UHOHSPAGHETTIOHS/GabeDawson.git",
-    "accountId": "a8d05fb8-66c2-4513-b2a5-5967063f0d9b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UHOHSPAGHETTIOHS/GabeDawson.git&quot;,
+    &quot;accountId&quot;: &quot;a8d05fb8-66c2-4513-b2a5-5967063f0d9b&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000085206884" />
-      <entry key="S10" value="1.000094347868255" />
-      <entry key="S30" value="1.0690537212847566" />
-      <entry key="S60" value="1.5357241320152395" />
-      <entry key="M2" value="3.242652033098134" />
-      <entry key="M5" value="13.706048527880311" />
-      <entry key="M10" value="33.16357615037986" />
-      <entry key="M15" value="46.899451415872335" />
-      <entry key="M30" value="68.00284979866895" />
-      <entry key="H1" value="82.63184628830838" />
-      <entry key="H2" value="91.28905055520745" />
-      <entry key="H4" value="96.00448724870544" />
-      <entry key="D1" value="100.1472128796493" />
-      <entry key="W1" value="100.87766840360672" />
+      <entry key="MS100" value="1.0286599485056704" />
+      <entry key="MS500" value="1.8056991913135714" />
+      <entry key="S2" value="2.6352139036242614" />
+      <entry key="S5" value="3.1178155735077775" />
+      <entry key="S10" value="3.4522658803796946" />
+      <entry key="S30" value="3.841356327265789" />
+      <entry key="S60" value="4.3716015121465395" />
+      <entry key="M2" value="6.073916771903986" />
+      <entry key="M5" value="16.4265415805143" />
+      <entry key="M10" value="35.825911344937424" />
+      <entry key="M15" value="49.580992741912524" />
+      <entry key="M30" value="70.77181267517598" />
+      <entry key="H1" value="85.49141345215746" />
+      <entry key="H2" value="94.2114582910549" />
+      <entry key="H4" value="98.96368182311241" />
+      <entry key="D1" value="103.14011771693487" />
+      <entry key="W1" value="103.87664739622294" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.900314007806442E-130" />
-      <entry key="S5" value="1.9180157023817116E-52" />
-      <entry key="S10" value="1.8683216273358686E-26" />
-      <entry key="S30" value="4.164039148519083E-9" />
-      <entry key="S60" value="9.112448682860292E-5" />
-      <entry key="M2" value="0.01349499752951368" />
-      <entry key="M5" value="0.27080006164177917" />
-      <entry key="M10" value="0.7359240273723708" />
-      <entry key="M15" value="1.0269845241544153" />
-      <entry key="M30" value="1.4331651430848436" />
-      <entry key="H1" value="1.6930233138894704" />
-      <entry key="H2" value="1.8401211740781847" />
-      <entry key="H4" value="1.9183957255979918" />
-      <entry key="D1" value="1.9861621188114946" />
-      <entry key="W1" value="1.9980172725789636" />
+      <entry key="S2" value="1.365223543813546E-131" />
+      <entry key="S5" value="5.648792969609795E-53" />
+      <entry key="S10" value="1.0139193023722395E-26" />
+      <entry key="S30" value="3.396503401421072E-9" />
+      <entry key="S60" value="8.229884126391781E-5" />
+      <entry key="M2" value="0.012824844908574197" />
+      <entry key="M5" value="0.2653386308625309" />
+      <entry key="M10" value="0.7284652594087888" />
+      <entry key="M15" value="1.0200335917145926" />
+      <entry key="M30" value="1.4283068675754356" />
+      <entry key="H1" value="1.690151294500902" />
+      <entry key="H2" value="1.8385597345989244" />
+      <entry key="H4" value="1.9175816230851275" />
+      <entry key="D1" value="1.9860216172515552" />
+      <entry key="W1" value="1.997997080510186" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492140118" />
-      <entry key="MS500" value="0.9876008614453725" />
-      <entry key="S2" value="0.9968856972203758" />
-      <entry key="S5" value="0.9987531215988162" />
-      <entry key="S10" value="0.9994706155269053" />
-      <entry key="S30" value="1.0685466345142252" />
-      <entry key="S60" value="1.5337805106136781" />
-      <entry key="M2" value="3.2489980293230496" />
-      <entry key="M5" value="13.953834085474792" />
-      <entry key="M10" value="33.873293422550574" />
-      <entry key="M15" value="47.903175876788524" />
-      <entry key="M30" value="69.42042217843459" />
-      <entry key="H1" value="84.31581401056535" />
-      <entry key="H2" value="93.12428759310599" />
-      <entry key="H4" value="97.92034601599754" />
-      <entry key="D1" value="102.13293846823218" />
-      <entry key="W1" value="102.87562297205089" />
+      <entry key="MS100" value="0.03246506808769048" />
+      <entry key="MS500" value="1.0978211792425066" />
+      <entry key="S2" value="2.368575713735506" />
+      <entry key="S5" value="3.00072500590379" />
+      <entry key="S10" value="3.391732790377535" />
+      <entry key="S30" value="3.820456073412961" />
+      <entry key="S60" value="4.35954916661184" />
+      <entry key="M2" value="6.0747856621620935" />
+      <entry key="M5" value="16.66726182598692" />
+      <entry key="M10" value="36.527400903153854" />
+      <entry key="M15" value="50.57723387570815" />
+      <entry key="M30" value="72.18423466419374" />
+      <entry key="H1" value="87.17235201522415" />
+      <entry key="H2" value="96.04505177936957" />
+      <entry key="H4" value="100.87868443627467" />
+      <entry key="D1" value="105.12569564667122" />
+      <entry key="W1" value="105.87458074634786" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,25 +102,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.core_game.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.core_game.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -191,6 +190,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="19" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GabeDawson$core_game.coverage" NAME="core_game Coverage Results" MODIFIED="1794026361934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GabeDawson$core_game.coverage" NAME="core_game Coverage Results" MODIFIED="1794026256031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

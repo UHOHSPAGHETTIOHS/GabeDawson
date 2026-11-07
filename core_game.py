@@ -6,16 +6,14 @@ from pygame import color
 #initialize pygame k
 pygame.init()
 
-# print("Damn")       # Prints damn
+#hehjgt and shirt
+WIDTH, HEIGHT = 640, 640
+ROWS, COLS = 8, 8
+SQUARE_SIZE = WIDTH // COLS
 
-colorWhite = (255,255,255)
-colorBlack = (0,0,0)
-
-pixeHeight = 640
-pixelWidth = 640
-rows = 8
-cols = 8
-squareDimension = (1/rows) * pixelHeight
+#COLRO
+LIGHT_SQUARE = (240, 217, 181)
+DARK_SQUARE = (181, 136, 99)
 
 pieces = {
     # White
