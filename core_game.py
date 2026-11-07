@@ -15,21 +15,12 @@ SQUARE_SIZE = WIDTH // COLS
 LIGHT_SQUARE = (240, 217, 181)
 DARK_SQUARE = (181, 136, 99)
 
-pieces = {
-    # White
-    'pW': '♙',  # pawn
-    'nW': '♘',  # knight
-    'bW': '♗',  # bishop
-    'rW': '♖',  # rook
-    'qW': '♕',  # queen
-    'kW': '♔',  # king
+order = 'pnbrqk'   # pawn, knight, bishop, rook, queen, king
 
-    # Black
-    'pB': '♟',  # pawn
-    'nB': '♞',  # knight
-    'bB': '♝',  # bishop
-    'rB': '♜',  # rook
-    'qB': '♛',  # queen
-    'kB': '♚',  # king
-}
+wPieces = ['♙', '♘', '♗', '♖', '♕', '♔']
+bPieces = ['♟', '♞', '♝', '♜', '♛', '♚']
+
+
+
+
 
